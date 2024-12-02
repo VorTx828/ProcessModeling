@@ -7,8 +7,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<TeploobmenContext>(o=> o.UseSqlite("Data Source = Teploobmen.db;"));
+builder.Services.AddAuthentication("Cookies").AddCookie(options => options.LoginPath="/auth");
+builder.Services.AddAuthorization();
 
 var app = builder.Build();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -23,7 +28,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthorization();
+
 
 app.MapControllerRoute(
     name: "default",

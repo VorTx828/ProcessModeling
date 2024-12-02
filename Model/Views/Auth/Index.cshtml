@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Authorization";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Страница авторизации</h1>
+    
+</div>
+
+<h1>Test</h1>
+<div class="text-center">
+    <form method="post" action="/auth/">
+        @* asp-action="Test" *@
+        <input name="Login" placeholder="Логин" value="3" /> <br />
+        <input name="Password" placeholder="Пароль" value="600" /><br />
+        <button value="Ввод" class="btn btn-primary">Авторизоваться</button>
+    </form>
+</div>

@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Model
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Viacheslav/Documents/GitHubRepositories/VSCODE/C\#/ProcessModeling/Model/Views/Auth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Viacheslav/Documents/GitHubRepositories/VSCODE/C\#/ProcessModeling/Model/Views/Home/Calc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxjLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -13,6 +13,7 @@
 <table class="table table-hover">
     <tr>
         <th>ID</th>
+        <th>Высота</th>
         <th>Температура материала</th>
         <th>Температура газа</th>
         <th>Теплоемкость материала</th>
@@ -36,6 +37,7 @@
             <td>@item.av</td>
             <td>@item.step</td>
             <td><a href="/home/calc/@item.Id">Открыть</a></td>
+            <td><a href="/home/delete/@item.Id">Удалить</a></td>
         </tr>
     }
 </table>
