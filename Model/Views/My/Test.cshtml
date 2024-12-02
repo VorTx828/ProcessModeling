@@ -1,7 +1,6 @@
 ﻿
 @{
     ViewData["Title"] = "Test";
-    var a = new Model();
 }
 
 
@@ -9,16 +8,17 @@
 <h1>Test</h1>
 <div class="text-center">
     <form method="post" action="/home/calc">   @* asp-action="Test" *@
-    <input name="Height" placeholder="Высота"/>
-    <input name="T_material" placeholder="Температура материала" />
-    <input name="T_gas" placeholder="Температура газа" />
-    <input name="C_material" placeholder="Теплоемкость материала" />
-    <input name="C_gas" placeholder="Теплоемкость газа" />
-    <input name="G" placeholder="Расход материала" />
-    <input name="d" placeholder="Диаметр канала" />
-    <input name="W" placeholder="Скорость газа" />
-    <input name="av" placeholder="Расход топлива?" />
-    <button value="Ввод"></button>
+        <input name="Height" placeholder="Высота" value="3"/> <br />
+        <input name="T_material" placeholder="Температура материала" value="600" /><br />
+        <input name="T_gas" placeholder="Температура газа" value="0" /><br />
+        <input name="C_material" placeholder="Теплоемкость материала" value="1,49" /><br />
+        <input name="C_gas" placeholder="Теплоемкость газа" value="1,31" /><br />
+        <input name="G" placeholder="Расход материала" value="1,72" /><br />
+        <input name="d" placeholder="Диаметр канала" value="2" /><br />
+        <input name="W" placeholder="Скорость газа" value="0,78" /><br />
+        <input name="av" placeholder="Расход топлива?" value="2460" /><br />
+        <input name="step" placeholder="Шаг" value="0,5" /><br />
+        <button value="Ввод" class="btn btn-primary"></button>
     </form>
 </div>
 

@@ -1,11 +1,60 @@
-﻿@*
+﻿@model CalcViewModel
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 
 
 
-<h1>Result form</h1>
+<h1>Результаты расчетов</h1>
+@if (Model != null)
+{
+    List<Par> Res = Model.Result;
 
-@{
-   
+
+    <div class="container">
+        <h1>Таблица с результатами расчетов показателей температур</h1>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Относительная высота</th>
+                    <th>Высота</th>
+                    <th>Температура газа</th>
+                    <th>Температура материала</th>
+                    <th>Разность температур</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Res.Count; i++)
+                {
+
+                    <tr>
+                        <td>@Res[i].Y</td>
+                        <td>@Res[i].y</td>
+                        <td>@Res[i].tg</td>
+                        <td>@Res[i].tm</td>
+                        <td>@Res[i].delta_t</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
 }
+
+
+<h1>Test</h1>
+<div class="text-center">
+    <form method="post" action="/home/calc">
+        @* asp-action="Test" *@
+        <input name="Height" placeholder="Высота" value="3" /> <br />
+        <input name="T_material" placeholder="Температура материала" value="600" /><br />
+        <input name="T_gas" placeholder="Температура газа" value="0" /><br />
+        <input name="C_material" placeholder="Теплоемкость материала" value="1,49" /><br />
+        <input name="C_gas" placeholder="Теплоемкость газа" value="1,31" /><br />
+        <input name="G" placeholder="Расход материала" value="1,72" /><br />
+        <input name="d" placeholder="Диаметр канала" value="2" /><br />
+        <input name="W" placeholder="Скорость газа" value="0,78" /><br />
+        <input name="av" placeholder="Расход топлива?" value="2460" /><br />
+        <input name="step" placeholder="Шаг" value="0,5" /><br />
+        <button value="Ввод" class="btn btn-primary"></button>
+    </form>
+</div>

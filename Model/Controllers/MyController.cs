@@ -9,7 +9,7 @@ namespace Model.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Test(IFormCollection Collection)
         {
-
+            return View();
         }
 
 

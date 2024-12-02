@@ -1,0 +1,12 @@
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\bin\Debug\net8.0\Formulas.deps.json
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\bin\Debug\net8.0\Formulas.dll
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\bin\Debug\net8.0\Formulas.pdb
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.AssemblyInfoInputs.cache
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.AssemblyInfo.cs
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.sourcelink.json
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.dll
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\refint\Formulas.dll
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\Formulas.pdb
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\C#\ProcessModeling\Formulas\obj\Debug\net8.0\ref\Formulas.dll

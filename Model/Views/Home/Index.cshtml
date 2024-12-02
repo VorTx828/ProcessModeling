@@ -1,4 +1,5 @@
-﻿@{
+﻿@model List<Variants>;
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -6,3 +7,35 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<a href="/home/calc/" class="btn-primary">Новый расчет </a>
+
+<table class="table table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Температура материала</th>
+        <th>Температура газа</th>
+        <th>Теплоемкость материала</th>
+        <th>Теплоемкость газа</th>
+        <th>Диаметр канала</th>
+        <th>Скорость газа</th>
+        <th>?</th>
+        <th>Шаг</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Height</td>
+            <td>@item.T_material</td>
+            <td>@item.T_gas</td>
+            <td>@item.C_material</td>
+            <td>@item.C_gas</td>
+            <td>@item.d</td>
+            <td>@item.W</td>
+            <td>@item.av</td>
+            <td>@item.step</td>
+            <td><a href="/home/calc/@item.Id">Открыть</a></td>
+        </tr>
+    }
+</table>
