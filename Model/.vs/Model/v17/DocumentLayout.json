@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\data\\variants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:data\\variants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\migrations\\20241209074114_adduserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:migrations\\20241209074114_adduserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,11 +47,11 @@
       "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:controllers\\out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Migrations\\20241202073950_TableUsersAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241202073950_TableUsersAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F308DACF-7A74-4213-8E1A-38BBA82F56A1}|..\\Formulas\\Formulas.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\formulas\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F308DACF-7A74-4213-8E1A-38BBA82F56A1}|..\\Formulas\\Formulas.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\formulas\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\migrations\\20241202073950_tableusersadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:migrations\\20241202073950_tableusersadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,24 +61,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:08:00.179Z",
+              "DocumentIndex": 4,
+              "Title": "20241209074114_addUserId.cs",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Migrations\\20241209074114_addUserId.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209074114_addUserId.cs",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Migrations\\20241209074114_addUserId.cs",
+              "RelativeToolTip": "Migrations\\20241209074114_addUserId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:41:15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Variants.cs",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Data\\Variants.cs",
+              "RelativeDocumentMoniker": "Data\\Variants.cs",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Data\\Variants.cs",
+              "RelativeToolTip": "Data\\Variants.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:24:46.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -83,39 +104,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T07:41:09.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Auth\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Auth\\Index.cshtml",
-              "RelativeToolTip": "Views\\Auth\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T07:42:19.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wBwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T07:00:38.283Z",
               "EditorCaption": ""
@@ -123,6 +131,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:08:00.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T07:42:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Calc.cshtml",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Home\\Calc.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Calc.cshtml",
@@ -130,25 +163,23 @@
               "RelativeToolTip": "Views\\Home\\Calc.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T06:59:08.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:59:08.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T06:55:56.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:55:56.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Out.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\Out.cs",
               "RelativeDocumentMoniker": "Controllers\\Out.cs",
@@ -156,12 +187,11 @@
               "RelativeToolTip": "Controllers\\Out.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:40:49.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:40:49.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Data\\User.cs",
               "RelativeDocumentMoniker": "Data\\User.cs",
@@ -169,12 +199,11 @@
               "RelativeToolTip": "Data\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:37:46.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:37:46.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "20241202073950_TableUsersAdded.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Migrations\\20241202073950_TableUsersAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20241202073950_TableUsersAdded.cs",
@@ -182,12 +211,11 @@
               "RelativeToolTip": "Migrations\\20241202073950_TableUsersAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:39:51.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:39:51.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Formulas\\Model.cs",
               "RelativeDocumentMoniker": "..\\Formulas\\Model.cs",

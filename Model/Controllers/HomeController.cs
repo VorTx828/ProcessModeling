@@ -11,6 +11,14 @@ namespace Model.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly TeploobmenContext _context;
+
+
+        private int? GetUserId()
+        {
+            var userIdStr = User.FindFirst("UserId")?.Value;
+            int? userId = userIdStr == null ? null : int.Parse(userIdStr);
+            return userId;
+        }
         public HomeController(ILogger<HomeController> logger, TeploobmenContext context)
         {
             _logger = logger;
@@ -25,7 +33,7 @@ namespace Model.Controllers
         //double Height, double T_material, double T_gas, double C_gas, double C_material, double G, double d, double W, int av, double step
         public IActionResult Delete(int ID)
         {
-            var variant = _context.Variants.FirstOrDefault(x=>x.Id==ID);
+            var variant = _context.Variants.FirstOrDefault(x=>x.Id==ID && (x.UserId==GetUserId() || x.UserId==null));
             if (variant!=null)
             {
                 _context.Variants.Remove(variant);
@@ -63,9 +71,11 @@ namespace Model.Controllers
 
             CalcViewModel model1 = new CalcViewModel(Both, C_gas, C_material, G, d, W, av);
 
+            
             //ViewData["Result"] = Both;
             _context.Variants.Add(new Variants
             {
+                UserId= GetUserId(),
                 Height = model.h,
                 T_material=model.T_material,
                 T_gas=model.T_gas,
@@ -86,7 +96,7 @@ namespace Model.Controllers
 
         public IActionResult Index()
         {
-            var vars = _context.Variants.ToList();
+            var vars = _context.Variants.Where(x=> x.UserId == GetUserId() || x.UserId==null).ToList();
             return View(vars);
         }
 
