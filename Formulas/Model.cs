@@ -108,7 +108,7 @@ namespace Formulas
         }
         public double delta_T(double y)
         {
-            return T(y) - t(y);
+            return t(y) - T(y);
         }
     }
 }

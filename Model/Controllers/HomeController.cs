@@ -57,7 +57,13 @@ namespace Model.Controllers
 
             List<Par> Both = new List<Par>();
 
-            
+
+            List<double> TempM= new List<double>();
+            List<double> TempG = new List<double>();
+            List<double> x = new List<double>();
+            List<double> DeltaT = new List<double>();
+
+
 
             Formulas.Model model = new Formulas.Model(Height, T_material, T_gas, C_gas, C_material, G, d, W, av);
 
@@ -65,11 +71,24 @@ namespace Model.Controllers
             {
                 
                 Formulas.Par cur = new Formulas.Par(model.Height(i), i, model.t(i), model.T(i), model.delta_T(i));
+
+                TempM.Add(model.t(i));
+                TempG.Add(model.T(i));
+                x.Add(i);
+                DeltaT.Add(model.delta_T(i));
+
                 Both.Add(cur);
 
             }
 
-            CalcViewModel model1 = new CalcViewModel(Both, C_gas, C_material, G, d, W, av);
+            CalcViewModel model1 = new CalcViewModel(Both, C_gas, C_material, G, d, W, av)
+            {
+                TempMat = TempM,
+                TempGas = TempG,
+                x=x,
+                DeltaT= DeltaT
+            };
+
 
             
             //ViewData["Result"] = Both;

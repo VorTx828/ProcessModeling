@@ -15,6 +15,12 @@ namespace Model.Models
 
         }
         public List<Par> Result { get; set; }
+        public List<double> TempMat { get; set; } = [260, 200, 170, 150];
+        public List<double> TempGas { get; set; } = [260, 200, 170, 150];
+
+        public List<double> x { get; set; } = [260, 200, 170, 150];
+
+        public List <double> DeltaT { get; set; }
         public double C_gas { get; set; }
         public double C_material { get; set; }
         public double G { get; set; }

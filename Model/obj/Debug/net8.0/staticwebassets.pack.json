@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\Model.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\wwwroot\\css\\c3.min.css",
+      "PackagePath": "staticwebassets\\css\\c3.min.css"
+    },
+    {
       "Id": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\wwwroot\\js\\c3.min.js",
+      "PackagePath": "staticwebassets\\js\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\wwwroot\\js\\d3-5.8.2.min.js",
+      "PackagePath": "staticwebassets\\js\\d3-5.8.2.min.js"
     },
     {
       "Id": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\wwwroot\\js\\site.js",

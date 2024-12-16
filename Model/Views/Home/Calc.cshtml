@@ -38,10 +38,52 @@
             </tbody>
         </table>
     </div>
+
+
+
+    <div id="chart"></div>
+    <div id="chart2"></div>
+    <script>
+        var tempMaterial = @Json.Serialize(Model.TempMat)
+        var tempGas = @Json.Serialize(Model.TempGas)
+        var x = @Json.Serialize(Model.x)
+        var deltat = @Json.Serialize(Model.DeltaT)
+
+        deltat.unshift('Разность температур, С')
+        tempMaterial.unshift('Температура материала, С')
+        tempGas.unshift('Температура газа, С')
+        x.unshift('x')
+
+        var chart = c3.generate({
+            bindto: '#chart',
+            data: {
+                x: 'x',
+                columns: [
+                    [...x],
+                    [...tempMaterial],
+                    [ ...tempGas]
+                ]
+            }
+        });
+
+
+        var chart = c3.generate({
+            bindto: '#chart2',
+            data: {
+                x: 'x',
+                columns: [
+                    [...x],
+                    [...deltat]
+
+                ]
+            }
+        });
+    </script>
+
+    
 }
 
-
-<h1>Test</h1>
+<center><h1>Ввод данных для варианта</h1></center>
 <div class="text-center">
     <form method="post" action="/home/calc">
         @* asp-action="Test" *@
@@ -55,6 +97,7 @@
         <input name="W" placeholder="Скорость газа" value="0,78" /><br />
         <input name="av" placeholder="Расход топлива?" value="2460" /><br />
         <input name="step" placeholder="Шаг" value="0,5" /><br />
-        <button value="Ввод" class="btn btn-primary"></button>
+        <button value="Ввод" class="btn btn-primary">Ввод</button>
     </form>
 </div>
+
