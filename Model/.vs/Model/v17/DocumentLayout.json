@@ -1,12 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\home\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\home\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\model\\models\\calcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51828F7C-FFB3-4149-931A-1168D6997B81}|Model.csproj|solutionrelative:models\\calcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F308DACF-7A74-4213-8E1A-38BBA82F56A1}|..\\Formulas\\Formulas.csproj|c:\\users\\viacheslav\\documents\\githubrepositories\\vscode\\c#\\processmodeling\\formulas\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calc.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Home\\Calc.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Calc.cshtml",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Home\\Calc.cshtml",
+              "RelativeToolTip": "Views\\Home\\Calc.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:02:31.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:01:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:21:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Models\\CalcViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CalcViewModel.cs",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Model\\Models\\CalcViewModel.cs",
+              "RelativeToolTip": "Models\\CalcViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:17:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Formulas\\Model.cs",
+              "RelativeDocumentMoniker": "..\\Formulas\\Model.cs",
+              "ToolTip": "C:\\Users\\Viacheslav\\Documents\\GitHubRepositories\\VSCODE\\C#\\ProcessModeling\\Formulas\\Model.cs",
+              "RelativeToolTip": "..\\Formulas\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:17:12.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
